@@ -38,6 +38,6 @@ The goal of this project was to understand:
 - Basic Sales module
 
 
-## 🎯 Learning Purpose
+##  Learning Purpose
 
 This is a learning project and will continue to improve over time.

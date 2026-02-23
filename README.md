@@ -44,13 +44,13 @@ This is a learning project and will continue to improve over time.
 
 ## Run Locally
 
-### 2) Backend
+###  Backend
 - Open the solution in Visual Studio
 - Run `Update-Database`
 - Start the API 
 - Swagger: http://localhost:<port>/swagger
 
-### 3) Frontend
+###  Frontend
 cd Inventory\Inventory.Frontend  
 npm install  
 npm run dev  

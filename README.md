@@ -41,3 +41,20 @@ The goal of this project was to understand:
 ##  Learning Purpose
 
 This is a learning project and will continue to improve over time.
+
+## Run Locally
+
+### 2) Backend
+- Open the solution in Visual Studio
+- Run `Update-Database`
+- Start the API 
+- Swagger: http://localhost:<port>/swagger
+
+### 3) Frontend
+cd Inventory\Inventory.Frontend  
+npm install  
+npm run dev  
+
+App runs at:
+http://localhost:5173
+
